@@ -2,7 +2,7 @@
 
 ## Reason for Schema ##
 
-To help focus planning and increase member awareness of upcoming events.
+* To help focus planning and increase member awareness of upcoming events.
 
 Feel free to edit, comment, or discuss on the mailing list
 
