@@ -52,31 +52,31 @@
 	3. Committee members will receive no remuneration for being part of the committee.
 	4. The term of a committee member lasts until the next Annual General Meeting.
 	5. The primary duties of the committee members are:
-		a. The Membership Secretary shall:
+		* The Membership Secretary shall:
 			* maintain the membership records of the organisation,
 			* maintain the general records of the organisation,
 			* notify members of votes and general meetings.
-		b. The Treasurer shall:
+		* The Treasurer shall:
 			* maintain the financial records of the organisation,
 			* be the primary bank account signatory,
 			* regularly update members of financial status,
 			* organise the timely payment of Labs expenditure.
-		c. The Events Support Officer shall:
+		* The Events Support Officer shall:
 			* maintain the calendar of events and bookings therein,
 			* encourage members to organise events for the organisation,
 			* provide support, advice, and assistance to members organising events.
-		d. The Public Relations Officer shall:
+		* The Public Relations Officer shall:
 			* promote and maintain good relations between the organisation and the public,
 			* encourage members to promote the Labs and projects subject to their particular skills,
 			* create, maintain, and update promotional material for the Labs for external distribution.
-		e. The Buildings Officer shall:
+		* The Buildings Officer shall:
 			* ensure the organisation facilities meet health and safety requirements,
 			* organise regular maintenance and upkeep of organisation facilities,
 			* organise essential utilities for the organisation facilities,
 			* respond appropriately to emergencies or urgent issues as they arise.
 	6. More specific definition of the duties of the committee will be covered in the General Operating Procedure.
-		a. Wherever possible, these duties should be spread out among as much of the willing membership as possible.
-		b. The members can create teams to deal with specific duties and tasks.
+		1. Wherever possible, these duties should be spread out among as much of the willing membership as possible.
+		2. The members can create teams to deal with specific duties and tasks.
 	7. Any full Labs member can be voted in as an interim committee member in emergency circumstances.
 	8. If a committee member resigns from the committee or leaves the organisation a general meeting will be called to find a replacement.
 	9. A general meeting will be held if a committee member is to be removed from the committee.
